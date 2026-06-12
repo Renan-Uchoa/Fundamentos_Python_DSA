@@ -1,0 +1,6 @@
+condicional dentro de outro
+loop dentro de outro
+condicional no loop
+loop no condicional
+loops alinhados
+condicionais alinhados
