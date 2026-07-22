@@ -19,6 +19,10 @@ pip install -r requirements.txt
 
 streamlit run dsa_assistente.py
 
+# Caso a política de segurança do Windows defender bloqueie a aplicação, force-a:
+
+python -m streamlit run dsa_assistente.py
+
 # Exemplos de uso do assistente:
 
 # Como crio um hello world em Python?
