@@ -3,3 +3,4 @@ credenciais.
 __pycache__/
 *.ipynb_checkpoints/
 
+credenciais.txt
